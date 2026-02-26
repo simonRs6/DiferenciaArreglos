@@ -23,7 +23,7 @@ Finalmente, muestra todos los valores del tercer arreglo y su promedio.
 ## Instrucciones de Ejecución
 
 1. Clonar el repositorio:
-   git clone https://github.com/tuusuario/DiferenciaArreglos.git
+   git clone https://github.com/simonRs6/DiferenciaArreglos/blob/main/DiferenciaArreglos.java
 
 2. Abrir el proyecto en un entorno de desarrollo Java como:
    - IntelliJ IDEA
